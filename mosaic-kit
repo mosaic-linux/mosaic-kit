@@ -24,10 +24,10 @@ mosaic_help() {
 	echo "usage:	mosaic-kit [option]"
 	echo
 	echo "mosaic-kit options:"
-	echo "	help - 	prints the help page."
-	echo "	build -	compiles the entirety of mosaic-kit."
+	echo "	help - 		prints the help page."
+	echo "	build -		compiles the entirety of mosaic-kit."
 	echo "	install -	installs the entirety of mosaic-kit after compiling."
-	echo "	bin -	installs the entirety of mosaic-kit as a binary after fetching."
+	echo "	bin -		installs the entirety of mosaic-kit as a binary after fetching."
 }
 
 #------------------------build script------------------
