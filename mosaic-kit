@@ -1,0 +1,13 @@
+#/bin/bash
+
+if [ -z "$1" ] || [ "$1" == "help" ]; then
+	echo "mosaic-kit alpha, version 0.0.1"
+	echo
+	echo "usage:	mosaic-kit [option]"
+	echo
+	echo "mosaic-kit options:"
+	echo "	help - 	prints the help page."
+	echo "	build -	compiles the entirety of mosaic-kit."
+	echo "	install -	installs the entirety of mosaic-kit after compiling."
+	echo "	bin -	installs the entirety of mosaic-kit as a binary after fetching."
+fi
