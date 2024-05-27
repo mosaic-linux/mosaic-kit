@@ -1,6 +1,3 @@
-[submodule "dwm"]
-	path = dwm
-	url = https://github.com/kieroid/dwm
 [submodule "software/dwm"]
 	path = software/dwm
 	url = https://github.com/kieroid/dwm
