@@ -8,5 +8,5 @@ set of software included:
  * dmenu (with applicable [patches](https://github.com/kieroid/dmenu))
  * st (with applicable [patches](https://github.com/kieroid/st))
  * torrinfail's [dwmblocks](https://github.com/torrinfail/dwmblocks)
-
+ * useful scripts
 
