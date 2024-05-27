@@ -7,6 +7,7 @@ set of software included:
  * dwm (with applicable [patches](https://github.com/kieroid/dwm))
  * dmenu (with applicable [patches](https://github.com/kieroid/dmenu))
  * st (with applicable [patches](https://github.com/kieroid/st))
+ * svkbd
  * torrinfail's [dwmblocks](https://github.com/torrinfail/dwmblocks)
  * useful scripts
 
